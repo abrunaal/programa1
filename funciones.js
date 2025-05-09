@@ -15,7 +15,11 @@ const agregar_usuario = (nombre,apellido,cedula,telefono)=>{
         console.log("debe ingresar nombre, apellido y cedula");s
 }
 }
+const buscar_usuario=(cedula)=>{
+
+}
 
 export{
+
     agregar_usuario
 }
