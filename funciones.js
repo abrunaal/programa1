@@ -12,7 +12,7 @@ const agregar_usuario = (nombre,apellido,cedula,telefono)=>{
     console.log(usuarios)
     }
     else{
-        console.log("debe ingresar nombre, apellido y cedula");
+        console.log("debe ingresar nombre, apellido y cedula");//hola
 }
 }
 
